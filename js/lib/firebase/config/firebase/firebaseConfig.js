@@ -9,6 +9,3 @@ const firebaseConfig = {
 };
 
 export { firebaseConfig };
-
-
-// We do not need this anymore - we did this to make it easier to setup
